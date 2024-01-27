@@ -1,74 +1,60 @@
 const logotext = "JOHN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ville Puisto",
+    description: "I’m Ville Puisto and i like Cloud and Cyber. I live in Finland.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ville Puisto",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love cloud",
+        second: "I'm learning Cyber",
+        third: "I develop cloud services",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About my self",
+    aboutme: "Passionate about Cloud and Cyber Tech, Welcome to my digital space! I am Ville Puisto, a dedicated professional with a fervor for cloud and cybersecurity technologies. From securing digital landscapes to harnessing the power of the cloud, I thrive on the cutting edge of tech innovation. Tech Enthusiast and Problem Solver With a keen eye for detail and a knack for problem-solving, I delve into the intricate realms of cloud computing and cybersecurity. My journey involves mastering the latest technologies to create robust solutions for today's digital challenges. Building Tomorrow's Solutions Today In the ever-evolving tech landscape, I am committed to staying ahead of the curve. Whether it's designing secure cloud architectures or implementing cyber defenses, my goal is to contribute to a safer and more connected digital future. Continuous Learner and Innovator Driven by a perpetual desire to learn, I believe in the power of continuous improvement. My journey is marked by acquiring new skills, staying updated on industry trends, and leveraging emerging technologies to push the boundaries of what's possible..",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
+        jobtitle: "Digital Identity Specialist",
         where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        date: "2022",
     },
 ];
 
 const skills = [{
         name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
+        value: 65,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 55,
     },
     {
         name: "React",
-        value: 60,
+        value: 70,
     },
     {
-        name: "Jquery",
+        name: "Azure",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Cloud Services",
+        description: "Monitoring and Logging, Compliance and Governance, DevOps and CI/CD",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Penetration testing",
+        description: "Vulnerability Assessment, Web Application Penetration Testing, Network Penetration Testing, Social Engineering Tests, Compliance and Regulatory Assessments",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Web app testing",
+        description: "Assess the security of web applications by identifying common vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).Evaluate the effectiveness of security controls, including input validation and session management.",
     },
 ];
 
